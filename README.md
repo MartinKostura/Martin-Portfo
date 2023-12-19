@@ -9,7 +9,7 @@
 - [Featured Projects](#featured-projects)
 
 ## About
-- I am excited to keep on learning and leveling up my work. I am not the type of guy to get demotivated when something go south, I always motivate myself to go further.
+- I am excited to keep on learning and leveling up my work. I am not the type of guy to get demotivated when something go south. I always motivate myself to go further.
 ![image](https://github.com/MartinKostura/Martin-Portfo/assets/148872082/75ccb6f6-df21-4b16-bfec-15ef1c90d2e0)
 
 <!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
