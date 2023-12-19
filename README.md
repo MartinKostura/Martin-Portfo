@@ -7,7 +7,6 @@
 - [View Presentation](img/surname-draft-first-impression-2023.pdf) (PDF) <!-- Add helpful hint as to what kind of file or destination is here. -->
 - [About](#about)
 - [Featured Projects](#featured-projects)
-- [Notes](#notes)
 
 ## About
 ![image](https://github.com/MartinKostura/Martin-Portfo/assets/148872082/75ccb6f6-df21-4b16-bfec-15ef1c90d2e0)
@@ -15,16 +14,12 @@
 <!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
 
 
-Hello! My name is Martin, I am from Slovakia and I’ve been interested in videography and photography for 7 years now. Before I found out about my passion for cinematography,
-I was just a regular guy that enjoyed spending time with his friends hanging outside or playing videogames. I discovered my passion in my first year of highschool after my
-teacher gave me a homework to create a video about a city I live in and I really enjoyed the whole process of creating. After that I switched my schools and started studying Film.
+Hello! My name is Martin, I am from Slovakia and I’ve been interested in videography and photography for 7 years now. Before I found out about my passion for cinematography, I was just a regular guy that enjoyed spending time with his friends hanging outside or playing videogames. I discovered my passion in my first year of highschool after my teacher gave me a homework to create a video about a city I live in and I really enjoyed the whole process of creating. After that I switched my schools and started studying Film.
 
 
 ## Featured Projects
 
-I have to say I love my job. I am working in a videoproduction called lifeREPORT for almost 3 years now. We are shooting huge events like Let it Roll which is one of the biggest
-DnB music festivals in Europe, we are shooting documentaries for Czech National Televison - ČT1-ČT2, or livestreaming sport  events like Czech Masters. 
-
+I have to say I love my job. I am working in a videoproduction called lifeREPORT for almost 3 years now. We are shooting huge events like Let it Roll which is one of the biggest DnB music festivals in Europe, we are shooting documentaries for Czech National Televison - ČT1-ČT2, or livestreaming sport  events like Czech Masters. In that 3 years I gained a huge amount of experience which is mirroring in my work. I got used to working under really stressing conditions with a lot of responsibility on me which allows me to be always focused. I am a believer in a teamwork so I really like to collaborate with as many people so we can combine our creative visions.
 
 ### Studio Photography
 ![9](https://github.com/MartinKostura/Martin-Portfo/assets/148872082/6bf160fa-cf8d-42e0-8f3e-6a0409413db4)
