@@ -9,6 +9,7 @@
 - [Featured Projects](#featured-projects)
 
 ## About
+- I am excited to keep on learning and leveling up my work. I am not the type of guy to get demotivated when something go south, I always motivate myself to go further.
 ![image](https://github.com/MartinKostura/Martin-Portfo/assets/148872082/75ccb6f6-df21-4b16-bfec-15ef1c90d2e0)
 
 <!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
@@ -48,4 +49,3 @@ image or animated GIF, but no video files. Again, keep the image width/height ma
 ![image](https://github.com/MartinKostura/Martin-Portfo/assets/148872082/c513c1e7-a658-4888-b5dc-39a946048a0e)
 ![image](https://github.com/MartinKostura/Martin-Portfo/assets/148872082/b66f3f6c-3d07-4a18-85e6-41e6c3db0c34)
 - I love live music events, so everytime I have a chance to go and combine it with my work I just cannot say no!
-Numbered comments about each featured project as presenter notes or speaking points.
