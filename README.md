@@ -19,7 +19,7 @@ Hello! My name is Martin, I am from Slovakia and I’ve been interested in video
 
 ## Featured Projects
 
-I have to say I love my job. I am working in a videoproduction called lifeREPORT for almost 3 years now. We are shooting huge events like Let it Roll which is one of the biggest DnB music festivals in Europe, we are shooting documentaries for Czech National Televison - ČT1-ČT2, or livestreaming sport  events like Czech Masters. In that 3 years I gained a huge amount of experience which is mirroring in my work. I got used to working under really stressing conditions with a lot of responsibility on me which allows me to be always focused. I am a believer in a teamwork so I really like to collaborate with as many people so we can combine our creative visions.
+I have to say I love my job. I am working in a videoproduction called lifeREPORT for almost 3 years now. We are shooting huge events like Let it Roll which is one of the biggest DnB music festivals in Europe, we are shooting documentaries for Czech National Televison - ČT1-ČT2, or livestreaming sport  events like Czech Masters. In that 3 years I gained a huge amount of experience which I believe is mirroring in my work. I got used to working under really stressing conditions with a lot of responsibility on me which allows me to be always focused. I am a believer in a teamwork so I really like to collaborate with as many people as I can so we can combine our creative visions.
 
 ### Studio Photography
 ![9](https://github.com/MartinKostura/Martin-Portfo/assets/148872082/6bf160fa-cf8d-42e0-8f3e-6a0409413db4)
@@ -49,8 +49,3 @@ image or animated GIF, but no video files. Again, keep the image width/height ma
 ![image](https://github.com/MartinKostura/Martin-Portfo/assets/148872082/b66f3f6c-3d07-4a18-85e6-41e6c3db0c34)
 - I love live music events, so everytime I have a chance to go and combine it with my work I just cannot say no!
 Numbered comments about each featured project as presenter notes or speaking points.
-
-1. …
-2. …
-3. …
-<!-- And so on. -->
